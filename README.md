@@ -4,11 +4,8 @@ This is a refactor code for the [caps](https://github.com/salammustafa728/caps) 
 
 **Caps:** Is an application for a product called CAPS, and it simulate a delivery service where vendors (such a flower shops) will ship products using the delivery service and when the drivers deliver them, each vendor will be notified that their customers received what they purchased.
 
-* [PR link]()
+* [PR link](https://github.com/salammustafa728/caps-refactor/pull/1)
 
-* [action link]()
-
-* [heroku link]()
 
 # UML 
 
