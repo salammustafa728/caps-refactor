@@ -10,3 +10,8 @@ This is a refactor code for the [caps](https://github.com/salammustafa728/caps) 
 # UML 
 
 ![uml](./images/UML-Socket.io.png)
+
+
+# Output
+
+![](./images/output.png)
